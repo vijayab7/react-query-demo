@@ -1,0 +1,157 @@
+{
+  "superheroes": [
+    {
+      "id": "1",
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": "2",
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": "3",
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": "2163",
+      "name": "deadpool",
+      "alterEgo": "unknown"
+    },
+    {
+      "id": "17a8",
+      "name": "dfd",
+      "alterEgo": "unknown"
+    },
+    {
+      "id": "a450",
+      "name": "vijay",
+      "alterEgo": "kumar"
+    },
+    {
+      "id": 6,
+      "name": "qq",
+      "alterEgo": "qq"
+    },
+    {
+      "id": 7,
+      "name": "qq",
+      "alterEgo": "qq"
+    },
+    {
+      "id": 8,
+      "name": "yyy",
+      "alterEgo": "yyy"
+    },
+    {
+      "id": 10,
+      "name": "zzz",
+      "alterEgo": "zzz"
+    },
+    {
+      "id": 11,
+      "name": "nn",
+      "alterEgo": "nn"
+    },
+    {
+      "id": 12,
+      "name": "jj",
+      "alterEgo": "jj"
+    },
+    {
+      "id": 13,
+      "name": "vv",
+      "alterEgo": "vv"
+    },
+    {
+      "id": 14,
+      "name": "uu",
+      "alterEgo": "uu"
+    },
+    {
+      "id": 15,
+      "name": "ff",
+      "alterEgo": "ff"
+    },
+    {
+      "id": 16,
+      "name": "dd",
+      "alterEgo": "dd"
+    },
+    {
+      "id": 17,
+      "name": "dd",
+      "alterEgo": "dd"
+    }
+  ],
+  "friends": [
+    {
+      "id": "1",
+      "name": "Ajith"
+    },
+    {
+      "id": "2",
+      "name": "Vijay"
+    },
+    {
+      "id": "3",
+      "name": "Surya"
+    }
+  ],
+  "user": [
+    {
+      "id": "vijayvjj7@gmail.com",
+      "channelId": "JJ"
+    }
+  ],
+  "Channel": [
+    {
+      "id": "JJ",
+      "courses": [
+        "react",
+        "spring",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "label": "red"
+    },
+    {
+      "id": "2",
+      "label": "blue"
+    },
+    {
+      "id": "3",
+      "label": "green"
+    },
+    {
+      "id": "4",
+      "label": "yellow"
+    },
+    {
+      "id": "5",
+      "label": "voilet"
+    },
+    {
+      "id": "6",
+      "label": "white"
+    },
+    {
+      "id": "7",
+      "label": "brown"
+    },
+    {
+      "id": "8",
+      "label": "pink"
+    },
+    {
+      "id": "9",
+      "label": "black"
+    }
+  ]
+}
